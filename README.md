@@ -1,4 +1,6 @@
 # simon-say
+URL: https://jcolorado19.github.io/simon-say/
+
 Juego de concentración hecho con el curso de Fundamentos de Javascript en Platzi
 
 
